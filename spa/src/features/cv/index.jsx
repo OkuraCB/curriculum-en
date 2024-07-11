@@ -127,7 +127,7 @@ export const ArthurCurriculum = () => {
               authority: "CEFET/RJ",
               authorityMeta: "Not finished yet",
               authorityWebSite: "https://e-computacao.com.br/",
-              rightSide: "2022 - 2024",
+              rightSide: "2022 - Nowadays",
             },
             {
               title: "Discourse analysis",
