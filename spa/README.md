@@ -5,4 +5,4 @@ It was made with ReactJS (using the Vite implementation) and does not have a API
 
 The project is running on my own network infrastructure made on my TV that you can access on the link below:
 
-http://arthurtv.duckdns.org:10002/
+[Arthur Resume](https://bit.ly/arthurResume)
