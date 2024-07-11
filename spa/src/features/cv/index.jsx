@@ -46,7 +46,7 @@ export const ArthurCurriculum = () => {
             {
               title: "Rock, Paper and Scissors efficiency study.",
               authority: "RPSContest",
-              authorityMeta: "Researche",
+              authorityMeta: "Researcher",
               authorityWebSite: "http://www.rpscontest.com/",
               rightSide: "2021 - 2022",
             },
@@ -132,7 +132,7 @@ export const ArthurCurriculum = () => {
             {
               title: "Discourse analysis",
               authority: "CEFET/RJ",
-              authorityMeta: "Researcher.",
+              authorityMeta: "Researcher",
               authorityWebSite: "https://www.cefet-rj.br/index.php/petropolis",
               rightSide: "2021 - Atualmente",
             },
