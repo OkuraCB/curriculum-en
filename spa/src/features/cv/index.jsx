@@ -29,7 +29,7 @@ export const ArthurCurriculum = () => {
                     I don't know exactly why I've started to learn how to make code, but since this point I've made my own TV, a website for my mom to manage 
                     giveaways, this resume (Fun fact: it's running on my TV) and so much more!<br />
                     I'm fluent with english and have experience working with **Typescript**, **Javascript**, **Python**, **ReactJS** and **NestJS** 
-                    (some projects bellow). I'm studying towards my bachelor's degree in Computer Engineering and specializing myself in **RUST**.`,
+                    (some projects below). I'm studying towards my bachelor's degree in Computer Engineering and specializing myself in **RUST**.`,
         },
         {
           type: "common-list",
@@ -54,7 +54,7 @@ export const ArthurCurriculum = () => {
               title: "Orange Business Services",
               authority: "Fullstack Developer",
               authorityWebSite: "https://www.orange-business.com/br",
-              rightSide: "2022 - Atualmente",
+              rightSide: "2022 - Nowadays",
             },
           ],
         },
